@@ -1,9 +1,9 @@
 class Letsdmmf < Formula
     desc "CLI for traversing DMMF of Prisma schema"
     homepage "https://github.com/yujong-lee/letsdmmf"
-    url "https://github.com/yujong-lee/letsdmmf/releases/download/0.2.3/letsdmmf.tar.gz"
-    sha256 "8e520cbd821ed3cbaf1352d403dee3a4537e7050810cc43dcbe9a0a3c1c9ba7e"
-    version "0.2.3"
+    url "https://github.com/yujong-lee/letsdmmf/releases/download/0.2.4/letsdmmf.tar.gz"
+    sha256 "dab90d90591d6fb4bc0a47aeb816bf517655d8194eebee5c822677baccdede86"
+    version "0.2.4"
     depends_on  "jless"
   
     def install
